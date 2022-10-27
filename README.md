@@ -1,7 +1,11 @@
 <h1 align="center"> Hi there Friends👋 I'm Gayathri Krishnan </h1>
-<h3 align="left"> A short into about me...</h3>
-<p> -:woman_technologist: You can call me GK <br>
-- 🌱 I’m currently learning Python, ML,  Web3....</p>
+
+### A short into about me
+-👩‍💻 You can call me *GK*
+
+-🌱 I’m currently learning ***Python, ML,  Web3***....
+
+  
 
 
 
