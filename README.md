@@ -1,3 +1,5 @@
+![My GitHub Profile Image](https://github.com/GK3077/GK3077/blob/main/GKProfile.jpeg)
+
 <h1 align="center"> Hi there Friends👋 I'm Gayathri Krishnan </h1>
 
 ### A short intro about me
