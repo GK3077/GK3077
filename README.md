@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there Friends👋 I'm Gayathri Krishnan </h1>
 
-### A short into about me
+### A short intro about me
 -👩‍💻 You can call me *GK*
 
 -🌱 I’m currently learning ***Python, ML,  Web3***....
