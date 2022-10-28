@@ -1,5 +1,7 @@
-![My GitHub Profile Image](https://github.com/GK3077/GK3077/blob/main/GKProfile.jpeg)
-
+<p align = "center">
+  <img height = "75%" width = "48%"  src = "https://github.com/GK3077/GK3077/blob/main/GKProfile.jpeg" alt = "My GitHub Repository Pic">
+ </p>
+   
 <h1 align="center"> Hi there Friends👋 I'm Gayathri Krishnan </h1>
 
 ### A short intro about me
@@ -7,7 +9,9 @@
 
 -🌱 I’m currently learning ***Python, ML,  Web3***....
 
-  
+<p align = "center">
+  <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=GK3077&show_icons=true&theme=algolia">
+</p>
 
 
 
