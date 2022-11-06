@@ -14,7 +14,7 @@
   <img width = "45%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GK3077&theme=algolia">
 </p>
 
-##:zap:Recent Activity 
+## :zap:Recent Activity 
 
 <!--START_SECTION:activity-->
 1. 
