@@ -14,7 +14,9 @@
   <img width = "45%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GK3077&theme=algolia">
 </p>
 
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 
 <!--
 **GK3077/GK3077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
