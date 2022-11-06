@@ -11,6 +11,7 @@
 
 <p align = "center">
   <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=GK3077&show_icons=true&theme=algolia">
+  <img width = "45%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GK3077&theme=algolia">
 </p>
 
 
