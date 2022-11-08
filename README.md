@@ -18,10 +18,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6642](https://github.com/TheAlgorithms/Python/issues/6642) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-2. 
-3.
-4.
-5.
+2. 🗣 Commented on [#6642](https://github.com/TheAlgorithms/Python/issues/6642) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+3. 💪 Opened PR [#7974](https://github.com/TheAlgorithms/Python/pull/7974) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+4. 💪 Opened PR [#7973](https://github.com/TheAlgorithms/Python/pull/7973) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+5. 💪 Opened PR [#7972](https://github.com/TheAlgorithms/Python/pull/7972) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 <!--END_SECTION:activity-->
 
 <!--
