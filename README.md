@@ -10,9 +10,10 @@
 -🌱 I’m currently learning ***Python, ML,  Web3***....
 
 <p align = "center">
-  <img width = "48%" src = "https://github-readme-stats-beta-tawny.vercel.app/api?username=GK3077&show_icons=true&theme=algolia">
-  <img width = "45%" src ="https://github-readme-stats-beta-tawny.vercel.app/api/top-langs/?username=GK3077&theme=algolia">
+  <img width = "45%" src = "https://github-readme-stats-beta-tawny.vercel.app/api?username=GK3077&show_icons=true&theme=algolia">
   <img width = "45%" src ="https://github-readme-streak-stats.herokuapp.com?user=GK3077&theme=radical">
+  <img width = "45%" src ="https://github-readme-stats-beta-tawny.vercel.app/api/top-langs/?username=GK3077&theme=algolia">
+  
 </p>
 
 ## :zap:Recent Activity 
