@@ -11,11 +11,13 @@
 
 <p align = "center">
   <img width = "45%" src = "https://github-readme-stats-beta-tawny.vercel.app/api?username=GK3077&show_icons=true&theme=algolia">
-  <img width = "45%" src ="https://github-readme-streak-stats.herokuapp.com?user=GK3077&theme=radical">
+  <img width = "45%" src ="https://streak-stats.demolab.com?user=GK3077&theme=radical">
   <img width = "45%" src ="https://github-readme-stats-beta-tawny.vercel.app/api/top-langs/?username=GK3077&theme=algolia">
   
 </p>
-
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=GK3077&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GK3077&theme=radical&ring=EC0D29)](https://git.io/streak-stats)
+-->
 ## :zap:Recent Activity 
 
 <!--START_SECTION:activity-->
